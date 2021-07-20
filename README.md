@@ -1,1 +1,1 @@
-# Arrow-functions-probelms-task
+# Arrow functions problems-task
